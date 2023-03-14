@@ -1,4 +1,4 @@
-# Algoritmos
+# Algoritmos - Bruno 🖥️
 
 ## Sequenciais
 
